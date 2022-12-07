@@ -19,3 +19,8 @@ music: https://www.youtube.com/watch?v=2a-VL1VoHJ0&list=PL7-_Ltr8Xtuy90yqoxcvm_D
 https://freesound.org/people/derplayer/sounds/587189/  --> enemy explosion
 
 https://freesound.org/people/NeoSpica/sounds/425090/
+
+wind sound: https://www.youtube.com/watch?v=xXNKwPEGx-k
+
+https://freesound.org/people/Andromadax24/sounds/178347/ : teleport sound
+
